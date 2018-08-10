@@ -1,0 +1,46 @@
+body{
+    background-color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url('Images/globe.jpg');
+}
+
+.intro{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background-image: url('../Images/globe.jpg');
+    padding-top: 0;
+}
+
+.intro-text{
+    text-align: center;
+    padding-top: 180px;
+    color: white;
+    font-size: 90px;
+    text-decoration: underline;
+
+}
+
+.text-intro{
+    text-align: center;
+    line-height: 1.8;
+    color: white;
+    font-size: 30px;
+    padding-top: -30px;
+}
+
+.text{
+    font-size: 40px;
+    padding-left: 30px;
+}
+
+.button{
+    text-decoration: none;
+    background-color: coral;
+    border: 1px solid white;
+    border-radius: 25px;
+    padding: 20px 35px;
+    font-size: 30px;
+    cursor: pointer;
+    margin-left: 35%;
+}
