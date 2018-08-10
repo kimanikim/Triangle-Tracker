@@ -8,9 +8,9 @@ if (isNaN(a) ||isNaN(b) ||isNaN(c) ) {
     alert("THIS IS NOT A NUMBER. PLEASE ADD A NUMBER TO CONTINUE EXPLORING.")
 }
 if (a === b && b === c && c === a) {
-    alert("This is an Equilateral Triangle.")
+    alert("I AM AN EQUILATERAL TRIANGLE.")
 } else if (a === b || b === c || a === c) {
-    alert("This is an Isoscles Triangle.")
+    alert("I AM AN ISOSCELES TRIANGLE.")
 } else if (a + b <= c || b + c <= a || a + c <= b) {
-    alert("Not a Triangle");
+    alert("I AM NOT A TRIANGLE");
 }};
