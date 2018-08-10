@@ -8,7 +8,7 @@
 * Open your browser (preferebly Google chrome)
 * Open a new tab
 * Type the link below and click ok
-
+    https://kimanikim.github.io/Triangle-Tracker/
 * At this point start exploring.
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
